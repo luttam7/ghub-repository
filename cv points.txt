@@ -1,0 +1,4 @@
+need to mention 
+code versioning
+build management as a part of configuration management
+Disaster recovery plan and  execution
